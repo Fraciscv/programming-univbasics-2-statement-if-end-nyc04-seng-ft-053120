@@ -1,4 +1,4 @@
-if Time.now.to_i % 1 == 0
+if Time.now.to_i % 3 == 0
   puts "Odd!"
 else
   puts "Even!"
